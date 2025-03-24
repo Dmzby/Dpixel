@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "75726265240",
+    "firebase_url": "https://classsphere-8d46e-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "classsphere-8d46e",
+    "storage_bucket": "classsphere-8d46e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75726265240:android:031d44feca9d3ba9f769ed",
+        "android_client_info": {
+          "package_name": "com.example.dpixel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3R_zgcdaZrH4qDs5pZIOzo7T8M-8OX3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
