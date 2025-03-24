@@ -1,6 +1,6 @@
 # dpixel
 
-A new Flutter project.
+social media share images
 
 ## Getting Started
 
