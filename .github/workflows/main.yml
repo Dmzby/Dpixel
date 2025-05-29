@@ -3,7 +3,7 @@ name: Build Flutter APK
 on:
   push:
     branches:
-      - main  # Ganti kalau pakai branch lain
+      - main
   workflow_dispatch:
 
 jobs:
@@ -17,7 +17,7 @@ jobs:
       - name: Setup Flutter
         uses: subosito/flutter-action@v2
         with:
-          flutter-version: '3.19.0'  # Ganti sesuai versi yang kamu pakai
+          flutter-version: '3.19.6'
 
       - name: Install dependencies
         run: flutter pub get
